@@ -1,0 +1,7 @@
+.mycard {
+  width: 30rem;
+  padding: 30px !important;
+  border-radius: 18px;
+  background: #fffefe;
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+}
